@@ -1,4 +1,4 @@
-Fit-tastic is a fitness web application designed to help users achieve their health and wellness goals. Built with modern web technologies, Fit-tastic offers a comprehensive suite of features to enhance your fitness journey.
+Fit-tastic is a fitness web application designed to help users achieve their health and wellness goals. Built with modern web technologies, this application offers a comprehensive suite of features to enhance your fitness journey.
 
 Key Features:
 Diet Recommendations: Personalized diet plans based on user goals.
