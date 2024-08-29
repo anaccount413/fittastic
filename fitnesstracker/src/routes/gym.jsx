@@ -6,7 +6,7 @@ import Autocomplete from "react-google-autocomplete";
 
 import { useState, useEffect } from "react";
 
-const key = "AIzaSyAKa1_jKCSWElQUXrNA_zj555C-b1pTM78";
+const key = "no"
 
 export default function GymNearMe() {
 
